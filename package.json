@@ -1,0 +1,14 @@
+{
+  "name": "botlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "speax.js",
+  "scripts": {
+    "test": "node speax"
+  },
+  "author": "Speax",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
